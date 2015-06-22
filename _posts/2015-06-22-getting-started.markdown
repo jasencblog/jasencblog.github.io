@@ -11,7 +11,7 @@ Luckily through some aimless Google searching for different matters I stumbled u
 
 Right now I'm rolling with a mostly vanilla build of the new theme for Jekyll 2.0. I've stripped out Twitter and thanks to [Nick Balestra](http://nick.balestra.ch/) and his Kactus theme added a beautiful call to action for users to subscribe to my blog via RSS.
 
-A few other thing's I found on my late Sunday night Google-athon:
+A few other things I found on my late Sunday night Google-athon:
 
 * [BitBucket](https://bitbucket.org/) let's you host private repositories, free.
 * [Divshot](https://divshot.com/) is a static web hosting service, free. Similar to this GitHub Pages, also like a front-end only version of [Heroku](https://www.heroku.com).

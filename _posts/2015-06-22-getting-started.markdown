@@ -2,7 +2,6 @@
 layout: post
 title:  "Getting Started"
 date:   2015-06-22 13:44:32
-categories: getting started
 ---
 Now I finally get to use [Mou](http://25.io/mou/).
 
@@ -19,4 +18,3 @@ A few other thing's I found on my late Sunday night Google-athon:
 * Smashing Magazine has a [great article](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/) if you're interesting in making one these for yourself. It also walks you through how to avoid install Ruby, Gems, and even Jekyll on your computer.
 
 One last thing I'm going to mention is I recently switched over to [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/), aside from it's abundance of developer tools it also has a sweet dark theme. (And yes, that means it has dark themed tools!)
-

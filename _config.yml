@@ -1,9 +1,10 @@
 # Site settings
-title: Jasen's Development Blog
-subtitle: Contact
+title: Jasen's Dev Blog
+footer: Contact
+subtitle: Jasen Carroll
 email: jasens.dev@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I'm Jasen Carroll, I'm aspiring to be a full stack web developer. I deployed this blog to have a fun way of documenting everything I've learned or found throughout the days, hopefully you'll find it useful as well.
+  I'm aspiring to be a full stack web developer. I deployed this blog to have a fun way of documenting everything I've learned and/or found throughout the days, hopefully you'll find it useful as well.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: false

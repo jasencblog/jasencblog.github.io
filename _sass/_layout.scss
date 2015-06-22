@@ -36,9 +36,16 @@
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
-        &:not(:first-child) {
-            margin-left: 20px;
-        }
+        // &:not(:first-child) {
+        //     margin-left: 20px;
+        // }
+    }
+    .cta {
+        background: #5badf0;
+        color: #fff;
+        padding: 0.5em;
+        border-radius: 3px;
+        margin-left: 12px;
     }
 
     @include media-query($on-palm) {
@@ -82,8 +89,11 @@
         .page-link {
             display: block;
             padding: 5px 10px;
+            margin-right: 10px;
         }
+
     }
+
 }
 
 

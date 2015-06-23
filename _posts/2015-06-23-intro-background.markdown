@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Intro & Background"
-date:   2015-06-23
+date:   2015-06-23 13:44:32
 ---
 I feel like I've wasted some time throughout the months without having clear cut goals and testing out a lot of resources and tools because I like shiny new things. At this point I'm starting to finally build some much needed confidence as well as understand all of the various platforms and what their uses and benefits are for. On top of that I'm seeing how my programming skills from college haven't been entirely lost through the years now that I'm slowly starting to dabble with the Back End technologies.
 

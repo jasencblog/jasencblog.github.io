@@ -16,6 +16,7 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    font-family: 'Kaushan Script', cursive;
 
     &,
     &:visited {
@@ -104,6 +105,14 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    img {
+      border-radius: 50%;
+      height: 130px;
+      width: 130px;
+      display: block;
+      margin: 0 auto;
+      vertical-align: top;
+    }
 }
 
 .footer-heading {
@@ -131,23 +140,18 @@
 }
 
 .footer-col-1 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-2 {
     width: -webkit-calc(20% - (#{$spacing-unit} / 2));
     width:         calc(20% - (#{$spacing-unit} / 2));
 }
 
-.footer-col-3 {
-    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
+.footer-col-2 {
+    width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+    width:         calc(30% - (#{$spacing-unit} / 2));
 }
 
-.footer-col-65 {
-    width: -webkit-calc(65% - (#{$spacing-unit} / 2));
-    width:         calc(65% - (#{$spacing-unit} / 2));
+.footer-col-3 {
+    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+    width:         calc(50% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
@@ -186,12 +190,13 @@
 }
 
 .post-list {
-    margin-left: 0;
+    margin-left: 12px;
+    padding-bottom: 2px;
     list-style: none;
 
     > li {
         margin-bottom: $spacing-unit;
-    }
+      }
 }
 
 .post-meta {
@@ -202,6 +207,7 @@
 .post-link {
     display: block;
     font-size: 24px;
+    color: #5badf0;
 }
 
 

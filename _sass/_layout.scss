@@ -16,6 +16,7 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    font-family: 'Kaushan Script', cursive;
 
     &,
     &:visited {
@@ -122,6 +123,15 @@
     color: $grey-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
+
+    img {
+      border-radius: 50%;
+      height: 130px;
+      width: 130px;
+      display: block;
+      margin: 0 auto;
+      vertical-align: top;
+    }
 }
 
 .footer-col {
@@ -186,12 +196,17 @@
 }
 
 .post-list {
-    margin-left: 0;
+    margin-left: 12px;
+    padding-bottom: 2px;
     list-style: none;
+
+    h2 {
+      font-family: 'Kaushan Script', cursive;
+    }
 
     > li {
         margin-bottom: $spacing-unit;
-    }
+      }
 }
 
 .post-meta {
@@ -202,6 +217,7 @@
 .post-link {
     display: block;
     font-size: 24px;
+    color: #5badf0;
 }
 
 

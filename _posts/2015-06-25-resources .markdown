@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Resources Paet 1"
+title:  "Resources Part 1"
 date:   2015-06-25
 ---
 #### Bookmark This.

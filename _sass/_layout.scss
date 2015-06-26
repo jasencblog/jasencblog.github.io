@@ -229,9 +229,9 @@
     }
 }
 
-.post-content {
+.post-content, 
+.page-content {
     margin-bottom: $spacing-unit;
-    font-family: 'Andale Mono', 'Curier New', 'Georgia', serif;
 
     h2 {
         font-size: 32px;
@@ -256,4 +256,8 @@
             font-size: 18px;
         }
     }
+}
+
+.post-content {
+    font-family: 'Andale Mono', 'Curier New', 'Georgia', serif;
 }

@@ -2,7 +2,7 @@
 title: Jasen's Dev Blog
 footer: Contact
 subtitle: Jasen Carroll
-email: jasens.dev@gmail.com
+email: info@jasencarroll.com
 description: > # this means to ignore newlines until "baseurl:"
   I'm aspiring to be a full stack web developer. I deployed this blog to have a fun way of documenting everything I've learned and/or found throughout the days, hopefully you'll find it useful as well.
 baseurl: "" # the subpath of your site, e.g. /blog/

@@ -16,9 +16,9 @@
         {% for page in site.pages %}
           {% if page.title %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          <a class="page-link cta" href="{{ "/feed.xml" | prepend: site.baseurl }}">Subscribe</a>
           {% endif %}
         {% endfor %}
+        <a class="page-link cta" href="{{ "/feed.xml" | prepend: site.baseurl }}">Subscribe</a>
       </div>
     </nav>
 

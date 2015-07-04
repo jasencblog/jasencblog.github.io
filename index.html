@@ -20,7 +20,7 @@ layout: default
 <div class="pagination-wrapper">
   <div class="pagination">
     {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="previous"><<</a>
+      <a href="{{ paginator.previous_page_path | replace: 'index.html', '/' | prepend: site.baseurl | replace: '//', '/' }}" class="previous"><<</a>
     {% else %}
       <span class="previous"><<</span>
     {% endif %}

@@ -21,6 +21,20 @@ $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
+$base-border-color: gainsboro !default;
+$base-border-radius: 3px !default;
+$base-spacing: 1em !default;
+$action-color: #477DCA !default;
+$dark-gray: #333 !default;
+$large-screen: em(860) !default;
+$base-font-color: $dark-gray !default;
+$pagination-border-color: $base-border-color;
+$pagination-border: 1px solid $pagination-border-color;
+$pagination-background: lighten($pagination-border-color, 10);
+$pagination-hover-background: lighten($pagination-background, 5);
+$pagination-color: $base-font-color;
+$gutter: 15px;
+
 // Width of the content area
 $content-width:    800px;
 
@@ -50,3 +64,27 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+.previous,
+.page_number,
+.next {
+  background: $pagination-background;
+  border-radius: $base-border-radius;
+  border: $pagination-border;
+  color: $pagination-color;
+  outline: none;
+  padding: ($base-spacing / 4) ($gutter / 2);
+  text-decoration: none;
+  display: inline-block;
+  width: 85px;
+  text-align: center;
+  margin: 0 0.5em;
+}
+
+.pagination-wrapper {
+  width: auto;
+  .pagination {
+    display: table;
+    margin: 0 auto;
+  }
+}

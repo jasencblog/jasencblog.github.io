@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Devwalks"
+date:   2015-07-03
+---
+
+Ok, so along this Rails detour that I am taking I am having a hell of a time trying to integrate with Stripe properly. Anyway that'll be the next post, when I figure it all out. On to what I did today instead:
+
+Ben Walker has put together a tutorial under the name of [Devwalks](http://www.devwalks.com/) and it is the bees knees. (Where did that saying even come from?) If you've had some experience with Rails I'd highly recommend it for the following reasons in no particular order.
+
+* He uses haml syntax, so it'll forces you to immediately understand it. Bonus points if you translate it back to ERB, and have tough enough skin to be called a sicko.
+* Not only does he tell you what he wants to do, and how to do it, but he sets you off on your way with the proper documentation links to coax you in to doing it yourself

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Stripe Integration with Rails"
-date:   2015-07-03
+date:   2015-07-04
 ---
 
 As I eluded to in my last post I was having a hard time getting my Rails application to properly integrate with [Stripe](https://stripe.com/). I had all of the plans set up properly and the free form was working correctly. I just couldn't get the paid plan to work.

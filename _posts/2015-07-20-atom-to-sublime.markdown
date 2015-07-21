@@ -4,7 +4,7 @@ title:  "Atom to Sublime"
 date:   2015-07-20
 ---
 
-I was a really big fan of [Atom](http://atom.io), and still am actually. But unfortunately I had to put it away for a while. The thing is it would start up fine but then would get very laggy after about 30 seconds. To the point where it couldn't keep up with me typing. After a week or so of trying to work around it and trouble shoot it on my own, including running in 'atom --safe' and even deleting '~/.atom', I needed something that would keep up. 
+I was a really big fan of [Atom](http://atom.io), and still am actually. But unfortunately I had to put it away for a while. The thing is it would start up fine but then would get very laggy after about 30 seconds. To the point where it couldn't keep up with me typing. After a week or so of trying to work around it and trouble shoot it on my own, including running in `atom --safe` and even deleting `~/.atom`, I needed something that would keep up. 
 
 I had messed around with [Brackets](http://brackets.io) before but for some reason I really don't like it. I can't really put my finger on it. With that said there really are some great features to the program, like a keyboard shortcut that brings up contextual help for CSS selectors and attributes. 
 

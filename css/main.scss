@@ -89,4 +89,10 @@ $on-laptop:        800px;
   }
 }
 
-h2 {margin-top: 1em}
+h2 {
+  margin-top: 1em;
+}
+
+.post-list h2 {
+  margin-top: 0;
+}

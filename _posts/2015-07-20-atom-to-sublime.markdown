@@ -4,7 +4,7 @@ title:  "Atom to Sublime"
 date:   2015-07-20
 ---
 
-UPDATE: Jul 31, 2013 - It turns out it's a known bug amongst the Atom community, in which an Atom Helper becomes a resource hog. I've slowly but surely transitioned back to Atom and have been very cautious about adding unnecessary packages to it. So far so good...
+UPDATE - Jul 31, 2013: It turns out it's a known bug amongst the Atom community, in which an Atom Helper becomes a resource hog. I've slowly but surely transitioned back to Atom and have been very cautious about adding unnecessary packages to it. So far so good...
 
 I was a really big fan of [Atom](http://atom.io), and still am actually. But unfortunately I had to put it away for a while. The thing is it would start up fine but then would get very laggy after about 30 seconds. To the point where it couldn't keep up with me typing. After a week or so of trying to work around it and trouble shoot it on my own, including running in `atom --safe` and even deleting `~/.atom`, I needed something that would keep up.
 

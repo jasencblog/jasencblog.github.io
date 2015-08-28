@@ -7,6 +7,6 @@ It is live at [blog.jasencarroll.com](http://blog.jasencarroll.com/).
 
 ## Author
 
-Jasen Carroll
-Jun 22nd, 2015
-info@jasencarroll.com
+Jasen Carroll  
+Jun 22nd, 2015  
+jasenc@icloud.com

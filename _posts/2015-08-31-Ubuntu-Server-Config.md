@@ -24,7 +24,7 @@ Combine them with `&&` to start getting fancy.
 Vagrant does us a favor here and disables `root` user SSH while creating a new user named `vagrant` with `sudo` powers and SSH login. Let's do it manually anyway.
 
 * `$ sudo adduser username`, provide a password and any optional additional information.
-* `$ sudo nano /etc/sudoers.d/username` and add `usernane ALL=(ALL) NOPASSWD:ALL`, write out and exit.
+* `$ sudo nano /etc/sudoers.d/username` and add `username ALL=(ALL) NOPASSWD:ALL`, write out and exit.
 * If you'd like to connect to that new user through Vagrant `$ ssh username@127.0.0.1 -p 2222`.
 
 If you need to disable `root` SSH manually follow this [How-To-Geek article](http://www.howtogeek.com/howto/linux/security-tip-disable-root-ssh-login-on-linux/) and check the comments for additional security ideas.
@@ -35,7 +35,8 @@ Still need to add SSH to the new username. Generate private keys on local machin
 
 * `$ ssh-keygen`
 * `/Users/Username/.ssh/filename` and add passphrase
-* `$ cat .ssh/filename` and copy output
+* `$ cat .ssh/filename.pub` and copy output. Note: Make sure you copy the `.pub`
+file, otherwise you're going to copy the private key and that is no bueno.
 
 Place the .pub file on the server. After connecting through with the new username:
 

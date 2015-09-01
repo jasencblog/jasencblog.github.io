@@ -49,7 +49,7 @@ Place the .pub file on the server. After connecting through with the new usernam
 
 Log out of username. Log back in using SSH:
 
-* `$ ssh username@127.0.0.1 -p 2222 -i ~/.ssh/server`
+* `$ ssh username@127.0.0.1 -p 2222 -i ~/.ssh/filename`
 * One time dialog prompt asking for SSH passphrase.
 
 ### Disable Password Logins

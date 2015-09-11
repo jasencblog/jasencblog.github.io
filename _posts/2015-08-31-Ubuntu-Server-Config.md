@@ -40,7 +40,7 @@ file, otherwise you're going to copy the private key and that is no bueno.
 
 Place the .pub file on the server. After connecting through with the new username:
 
-* `$ mkdir .shh && nano .ssh/authorized_keys`
+* `$ mkdir .ssh && nano .ssh/authorized_keys`
 * Paste contents of .pub file, write out and exit.
 * `$ chmod 700 .ssh`
 * `$ chmod 644 .ssh/authorized_keys`

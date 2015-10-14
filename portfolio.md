@@ -10,8 +10,12 @@ After making sure I could build and understand responsive HTML & CSS sites witho
 
 Future plans include connecting to a database, adding a user interface, creating an auto updating table of tags, and maybe even a mobile app for interactions from the phone.
 
+
+
 ### Val Teams
 ***
+
+[![Val Teams](/img/ScreenShot.jpg)](http://valteams.com){:target="_blank"}
 
 After working in the industry of FDA Validations for a few years I noticed some things. These validation projects can be very resource intensive at the start but tend to trickle off at the end. As a result there is a sustainable lifestyle in being a validation consultant. Recruiters are constantly searching for people to fill their positions.
 

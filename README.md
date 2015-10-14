@@ -1,2 +1,12 @@
 # Jasen's Development Blog
-I wanted to create a blog using Github Pages and Jekyll, so I figure I will use it to documnet my learning throughout my career change into programming and development. Hope you enjoy.
+
+This blog is generated using a Ruby Gem known as Jekyll. Originally it was
+hosted using GitHub Pages but has been relocated to Divshot.
+
+It is live at [blog.jasencarroll.com](http://blog.jasencarroll.com/).
+
+## Author
+
+Jasen Carroll  
+Jun 22nd, 2015  
+jasenc@icloud.com

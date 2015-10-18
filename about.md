@@ -14,7 +14,7 @@ but I'm currently happily residing in Portland, OR while focusing my career on d
 
 Feel free to email me or check out my [Github][1](https://github.com/jasenc)
 repositories to see what I'm up to along the way. For my portfolio please go
-to [jasencarroll.com][2]
+to [jasencarroll.com][2].
 
 
 [1]: https://github.com/jasenc

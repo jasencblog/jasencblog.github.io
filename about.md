@@ -8,7 +8,7 @@ Let's bring you up to speed.
 
 I started programming in 2009 with a course in object oriented C++ and proceeded
 to focus my mechanical engineering degree on robotics and controls. Afterwards I
-gained professional experience working for a top Fortune 500 company.I've lived
+gained professional experience working for a top Fortune 500 company. I've lived
 a few places along the way but I'm currently happily residing in Portland, OR
 while focusing my career on development. Web development has become a big part
 of my life and my preferred language is Python, though I thuroughly believe in

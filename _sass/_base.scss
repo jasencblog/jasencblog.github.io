@@ -88,9 +88,13 @@ h1, h2, h3, h4, h5, h6 {
 /**
  * Links
  */
+h2 a,
+.trigger a,
+ul a { text-decoration: none; }
+
 a {
     color: $brand-color;
-    text-decoration: none;
+    text-decoration: underline;
 
     &:visited {
         color: darken($brand-color, 30%);

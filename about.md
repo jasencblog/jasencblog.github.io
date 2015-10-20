@@ -6,7 +6,7 @@ permalink: /about/
 ### Hi, I'm Jasen Carroll.
 Let's bring you up to speed.
 
-I started programming in 2009 with a course in object oriented C++ and proceeded
+I started programming in 2010 with a course in object oriented C++ and proceeded
 to focus my mechanical engineering degree on robotics and controls. Afterwards I
 gained professional experience working for a top Fortune 500 company. I've lived
 a few places along the way but I'm currently happily residing in Portland, OR

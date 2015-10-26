@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Divshot Part 2"
-date:   2015-10-15
+title:  "Python Developer"
+date:   2015-10-18
 ---
 
 I'm going to focus on becoming a Python Developer. I've really taken the time to
@@ -16,4 +16,7 @@ development, I much prefer handling the magic myself. When I want some more
 opinions than a design pattern I'll grab a JS framework to work with. Speaking
 of that, it looks like React has a nice wrapper for Python - [react-python][1].
 
+By the way, I relaunched my [portfolio][2].
+
 [1]: https://github.com/reactjs/react-python
+[2]: http://www.jasencarroll.com
